@@ -2,7 +2,7 @@
 
 🎓 A curious **Computer Science student at SIMAT**  
 💡 Always excited to explore new ideas and build creative tech projects  
-🛠 Currently working on **FORSA** – an AI-powered code repair assistant <br>
+🛠 Currently working on **FORSA**  <br>
 🧠 I believe in **debugging more, stressing less**  
 🚫 Not into robotics or backend-only specialization — I love solving tech problems wherever they appear  
 ⚙️ Passionate about learning, experimenting, and creating things that make life a little easier  
