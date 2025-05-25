@@ -12,8 +12,7 @@
 
 ---
 
-# 🛠 What I'm Currently Working On
-- An AI-powered code repair assistant (**FORSA**)<br>
+<br>
 
 # 👯 I’m Looking to Collaborate On
 - AI and web-based tools that boost developer productivity
