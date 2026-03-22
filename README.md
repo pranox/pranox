@@ -13,7 +13,7 @@
 
 <br>
 
-# 👯 I’m Looking to Collaborate On
+#  I’m Looking to Collaborate On
 - AI and web-based tools that boost developer productivity
 - Apps that simplify complex tasks for non-technical users
 
